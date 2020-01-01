@@ -1,0 +1,17 @@
+{
+  "name": "coreui",
+  "version": "1.0.1",
+  "authors": [
+    "dungpt <phamtrungdung1212@gmail.com>"
+  ],
+  "description": "coreui template admin vuejs",
+  "main": "/",
+  "keywords": [
+    "core_ui_vuejs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dungpt1212/coreui-free-vue-admin-template.git",
+  "ignore": [
+    "README.md"
+  ]
+}
